@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi there, I'm Sodir 👋
 
-<!--
-**sydon1/sydon1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🎓 Electronics-ICT Engineering Technology student at Group T
+- 💻 Passionate about programming, electronics, and open-source software
+- ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) Daily driving Ubuntu
 
-Here are some ideas to get you started:
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sydon1&layout=compact&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/sodir-yuksel/))
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sodiryuksel@outlook.com)
